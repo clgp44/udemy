@@ -1,0 +1,28 @@
+[0.781s] Invoking command in '/home/clgpoulain/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/clgpoulain/ros2_ws/build/my_robot_description -- -j4 -l4
+[0.849s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.204s] -- Configuring done
+[1.212s] -- Generating done
+[1.213s] -- Build files have been written to: /home/clgpoulain/ros2_ws/build/my_robot_description
+[1.251s] Invoked command in '/home/clgpoulain/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/clgpoulain/ros2_ws/build/my_robot_description -- -j4 -l4
+[1.320s] Invoking command in '/home/clgpoulain/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/clgpoulain/ros2_ws/build/my_robot_description
+[1.332s] -- Install configuration: ""
+[1.332s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/$(PROJECT_NAME)//urdf
+[1.332s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/$(PROJECT_NAME)//urdf/my_robot.urdf
+[1.332s] -- Installing: /home/clgpoulain/ros2_ws/install/my_robot_description/share/$(PROJECT_NAME)//launch
+[1.332s] -- Installing: /home/clgpoulain/ros2_ws/install/my_robot_description/share/$(PROJECT_NAME)//launch/display.launch.xml
+[1.333s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[1.333s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[1.333s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[1.334s] -- Installing: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[1.334s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[1.334s] -- Installing: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[1.335s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[1.335s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[1.335s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[1.335s] -- Installing: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[1.336s] -- Installing: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[1.337s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[1.337s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[1.338s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[1.338s] -- Up-to-date: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml
+[1.350s] Invoked command in '/home/clgpoulain/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/clgpoulain/ros2_ws/build/my_robot_description

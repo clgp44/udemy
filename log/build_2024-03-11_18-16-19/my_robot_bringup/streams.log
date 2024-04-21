@@ -1,0 +1,43 @@
+[0.291s] Invoking command in '/home/clgpoulain/ros2_ws/build/my_robot_bringup': /usr/bin/cmake /home/clgpoulain/ros2_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/clgpoulain/ros2_ws/install/my_robot_bringup
+[0.746s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.747s] -- Configuring incomplete, errors occurred!
+[0.747s] See also "/home/clgpoulain/ros2_ws/build/my_robot_bringup/CMakeFiles/CMakeOutput.log".
+[0.748s] Error parsing '/home/clgpoulain/ros2_ws/src/my_robot_bringup/package.xml':
+[0.748s] Traceback (most recent call last):
+[0.748s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 610, in parse_package_string
+[0.749s]     root = dom.parseString(data)
+[0.749s]   File "/usr/lib/python3.10/xml/dom/minidom.py", line 2000, in parseString
+[0.749s]     return expatbuilder.parseString(string)
+[0.749s]   File "/usr/lib/python3.10/xml/dom/expatbuilder.py", line 925, in parseString
+[0.749s]     return builder.parseString(string)
+[0.750s]   File "/usr/lib/python3.10/xml/dom/expatbuilder.py", line 223, in parseString
+[0.750s]     parser.Parse(string, True)
+[0.751s] xml.parsers.expat.ExpatError: mismatched tag: line 22, column 2
+[0.751s] 
+[0.751s] During handling of the above exception, another exception occurred:
+[0.752s] 
+[0.752s] Traceback (most recent call last):
+[0.753s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[0.753s]     main()
+[0.753s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[0.753s]     raise e
+[0.753s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[0.753s]     package = parse_package_string(
+[0.753s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 612, in parse_package_string
+[0.753s]     raise InvalidPackage('The manifest contains invalid XML:\n%s' % ex, filename)
+[0.753s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/clgpoulain/ros2_ws/src/my_robot_bringup/package.xml':
+[0.753s] The manifest contains invalid XML:
+[0.753s] mismatched tag: line 22, column 2
+[0.754s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.754s]   execute_process(/usr/bin/python3
+[0.754s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.754s]   /home/clgpoulain/ros2_ws/src/my_robot_bringup/package.xml
+[0.754s]   /home/clgpoulain/ros2_ws/build/my_robot_bringup/ament_cmake_core/package.cmake)
+[0.754s]   returned error code 1
+[0.754s] Call Stack (most recent call first):
+[0.754s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.754s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package.cmake:63 (ament_package_xml)
+[0.754s]   CMakeLists.txt:16 (ament_package)
+[0.755s] 
+[0.755s] [0m
+[0.756s] Invoked command in '/home/clgpoulain/ros2_ws/build/my_robot_bringup' returned '1': /usr/bin/cmake /home/clgpoulain/ros2_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/clgpoulain/ros2_ws/install/my_robot_bringup

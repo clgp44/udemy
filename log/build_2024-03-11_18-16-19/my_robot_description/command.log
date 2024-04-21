@@ -1,0 +1,1 @@
+Invoking command in '/home/clgpoulain/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/clgpoulain/ros2_ws/build/my_robot_description -- -j4 -l4

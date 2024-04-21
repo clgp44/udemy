@@ -1,0 +1,29 @@
+[0.114s] Invoking command in '/home/clgpoulain/ros2_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/clgpoulain/ros2_ws/src/my_robot_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/clgpoulain/ros2_ws/install/my_robot_bringup
+[0.132s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.284s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.397s] -- Configuring done
+[0.400s] -- Generating done
+[0.401s] -- Build files have been written to: /home/clgpoulain/ros2_ws/build/my_robot_bringup
+[0.404s] Invoked command in '/home/clgpoulain/ros2_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/clgpoulain/ros2_ws/src/my_robot_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/clgpoulain/ros2_ws/install/my_robot_bringup
+[0.405s] Invoking command in '/home/clgpoulain/ros2_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/clgpoulain/ros2_ws/build/my_robot_bringup -- -j4 -l4
+[0.453s] Invoked command in '/home/clgpoulain/ros2_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/clgpoulain/ros2_ws/build/my_robot_bringup -- -j4 -l4
+[0.479s] Invoking command in '/home/clgpoulain/ros2_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/clgpoulain/ros2_ws/build/my_robot_bringup
+[0.489s] -- Install configuration: ""
+[0.490s] -- Execute custom install script
+[0.490s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
+[0.502s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+[0.512s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+[0.524s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+[0.535s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+[0.547s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+[0.559s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+[0.569s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+[0.580s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+[0.591s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+[0.602s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+[0.613s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+[0.625s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+[0.637s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+[0.648s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+[0.660s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml
+[0.673s] Invoked command in '/home/clgpoulain/ros2_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/clgpoulain/ros2_ws/build/my_robot_bringup

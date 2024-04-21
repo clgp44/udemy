@@ -1,0 +1,27 @@
+[0.297s] Invoking command in '/home/clgpoulain/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/clgpoulain/ros2_ws/build/my_robot_description -- -j4 -l4
+[0.885s] Invoked command in '/home/clgpoulain/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/clgpoulain/ros2_ws/build/my_robot_description -- -j4 -l4
+[0.937s] Invoking command in '/home/clgpoulain/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/clgpoulain/ros2_ws/build/my_robot_description
+[0.952s] -- Install configuration: ""
+[0.980s] -- Execute custom install script
+[0.995s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
+[0.996s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_gazebo.xacro
+[0.997s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+[0.998s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/properties.xacro
+[0.999s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+[1.000s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description//rviz/my_robot.rviz
+[1.000s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[1.001s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[1.002s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[1.002s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[1.002s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[1.002s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[1.002s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[1.005s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[1.006s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[1.006s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[1.006s] -- Symlinking: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[1.021s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[1.024s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[1.027s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[1.029s] -- Up-to-date symlink: /home/clgpoulain/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml
+[1.029s] Invoked command in '/home/clgpoulain/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/clgpoulain/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/clgpoulain/ros2_ws/build/my_robot_description
